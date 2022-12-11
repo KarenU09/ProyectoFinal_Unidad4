@@ -4,8 +4,10 @@ Imports System.Data
 Public Class Docente
 
     Dim c As New conexion
-        'En caso de que la tabla docente tenga más atributos agregarlos
-        Private codigoDocente As String
+
+
+    'declaracion de las propiedades de la clase
+    Private codigoDocente As String
         Private nombreDocente As String
         Private apellidoDocente As String
         Private correoDocente As String

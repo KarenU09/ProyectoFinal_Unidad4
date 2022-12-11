@@ -77,7 +77,7 @@ Public Class Alumno
         With c.cmd
             'cadena de conexión
             .Connection = c.strcon
-            'consulta de la tabla estudiante
+
             .CommandText = "SELECT idestudiante, nombre, apellido,correo, telefono,codigo FROM estudiante"
 
         End With

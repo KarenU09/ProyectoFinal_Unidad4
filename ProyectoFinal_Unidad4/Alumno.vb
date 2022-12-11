@@ -122,13 +122,13 @@ Public Class Alumno
     End Function
 
     'Metodo para actualizr registros
-    'Para utilizar con otra clase, cambie nombre de tabla y de los campos que se van actualizar
+
     Public Sub editar()
         Try
             c.strcon.Open()
             With c.cmd
                 .Connection = c.strcon
-                .CommandText = "UPDATE estudiante SET 
+                .CommandText = "(UPDATE estudiante SET 
                                 nombre ='" & nomAlumno & "',
                                 apellido = '" & apeAlumno & "',
                                 correo = '" & mailAlumno & "',
@@ -146,8 +146,10 @@ Public Class Alumno
 
         Catch ex As Exception
             MsgBox(ex.Message)
-        End Try
+       End Try
         c.strcon.Close()
+
+
 
     End Sub
 

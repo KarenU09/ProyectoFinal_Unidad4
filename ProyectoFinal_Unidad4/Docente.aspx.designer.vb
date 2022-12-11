@@ -14,11 +14,11 @@ Option Explicit On
 Partial Public Class Docente1
 
     '''<summary>
-    '''Control docentes.
+    '''Control docente.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents docentes As Global.System.Web.UI.WebControls.PlaceHolder
+    Protected WithEvents docente As Global.System.Web.UI.WebControls.PlaceHolder
 End Class

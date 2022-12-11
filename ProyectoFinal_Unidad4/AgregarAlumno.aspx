@@ -22,62 +22,62 @@
                 &nbsp;</td>
         </tr>
         <tr>
-            <td class="text-right" style="width: 114px; color: #0066CC; font-size: medium;"><strong>Nombre</strong></td>
+            <td class="text-right" style="width: 114px; color: #0066CC; font-size: large; font-family: Calibri;"><strong>Nombre</strong></td>
             <td style="width: 33px">&nbsp;</td>
             <td style="width: 561px">
                 <asp:TextBox ID="txtNombre" runat="server" Width="258px"></asp:TextBox>
             </td>
         </tr>
         <tr>
-            <td class="text-right" style="width: 114px; color: #0066CC; font-size: medium;">&nbsp;</td>
+            <td class="text-right" style="width: 114px; color: #0066CC; font-size: large; font-family: Calibri;">&nbsp;</td>
             <td style="width: 33px">&nbsp;</td>
             <td style="width: 561px">
                 Ingrese nombre de estudiante</td>
         </tr>
         <tr>
-            <td class="text-right" style="width: 114px; color: #0066CC; font-size: medium;"><strong>Apellido</strong></td>
+            <td class="text-right" style="width: 114px; color: #0066CC; font-size: large; font-family: Calibri;"><strong>Apellido</strong></td>
             <td style="width: 33px">&nbsp;</td>
             <td style="width: 561px">
                 <asp:TextBox ID="TxtApellido" runat="server" Width="258px"></asp:TextBox>
             </td>
         </tr>
         <tr>
-            <td class="text-right" style="width: 114px; color: #0066CC; font-size: medium;">&nbsp;</td>
+            <td class="text-right" style="width: 114px; color: #0066CC; font-size: large; font-family: Calibri;">&nbsp;</td>
             <td style="width: 33px">&nbsp;</td>
             <td style="width: 561px">
                 <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ControlToValidate="TxtApellido" ErrorMessage="Ingrese apellido de estudiante"></asp:RequiredFieldValidator>
             </td>
         </tr>
         <tr>
-            <td class="text-right" style="width: 114px; color: #0066CC; font-size: medium;"><strong>Correo</strong></td>
+            <td class="text-right" style="width: 114px; color: #0066CC; font-size: large; font-family: Calibri;"><strong>Correo</strong></td>
             <td style="width: 33px">&nbsp;</td>
             <td style="width: 561px">
                 <asp:TextBox ID="TxtCorreo" runat="server" Width="258px"></asp:TextBox>
             </td>
         </tr>
         <tr>
-            <td class="text-right" style="width: 114px; color: #0066CC; font-size: medium;">&nbsp;</td>
+            <td class="text-right" style="width: 114px; color: #0066CC; font-size: large; font-family: Calibri;">&nbsp;</td>
             <td style="width: 33px">&nbsp;</td>
             <td style="width: 561px">
                 <asp:RequiredFieldValidator ID="RequiredFieldValidator3" runat="server" ControlToValidate="TxtCorreo" ErrorMessage="Ingrese correo de estudiante"></asp:RequiredFieldValidator>
             </td>
         </tr>
         <tr>
-            <td class="text-right" style="width: 114px; color: #0066CC; font-size: medium;"><strong>Teléfono</strong></td>
+            <td class="text-right" style="width: 114px; color: #0066CC; font-size: large; font-family: Calibri;"><strong>Teléfono</strong></td>
             <td style="width: 33px">&nbsp;</td>
             <td style="width: 561px">
                 <asp:TextBox ID="TxtTelefono" runat="server" Width="258px"></asp:TextBox>
             </td>
         </tr>
         <tr>
-            <td class="text-right" style="width: 114px; color: #0066CC; font-size: medium;">&nbsp;</td>
+            <td class="text-right" style="width: 114px; color: #0066CC; font-size: large; font-family: Calibri;">&nbsp;</td>
             <td style="width: 33px">&nbsp;</td>
             <td style="width: 561px">
                 <asp:RequiredFieldValidator ID="RequiredFieldValidator4" runat="server" ControlToValidate="TxtTelefono" ErrorMessage="Ingrese telefono de estudiante"></asp:RequiredFieldValidator>
             </td>
         </tr>
         <tr>
-            <td class="text-right" style="width: 114px; color: #0066CC; font-size: medium;"><strong>Código</strong></td>
+            <td class="text-right" style="width: 114px; color: #0066CC; font-size: large; font-family: Calibri;"><strong>Código</strong></td>
             <td style="width: 33px">&nbsp;</td>
             <td style="width: 561px">
                 <asp:TextBox ID="TxtCodigo" runat="server" Width="122px" Enabled="False"></asp:TextBox>
@@ -86,7 +86,7 @@
             </td>
         </tr>
         <tr>
-            <td class="text-right" style="width: 114px; color: #0066CC; font-size: medium;">&nbsp;</td>
+            <td class="text-right" style="width: 114px; color: #0066CC; font-size: large; font-family: Calibri;">&nbsp;</td>
             <td style="width: 33px">&nbsp;</td>
             <td style="width: 561px">&nbsp;</td>
         </tr>

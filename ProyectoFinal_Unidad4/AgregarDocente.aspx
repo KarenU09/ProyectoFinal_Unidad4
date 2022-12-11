@@ -21,59 +21,59 @@
                 &nbsp;</td>
         </tr>
         <tr>
-            <td class="text-right" style="width: 114px; font-size: medium; color: #0066CC; font-family: Calibri;"><em><strong>Nombre</strong></em></td>
+            <td class="text-right" style="width: 114px; font-size: large; color: #0066CC; font-family: Calibri;"><em><strong>Nombre</strong></em></td>
             <td style="width: 33px">&nbsp;</td>
             <td style="width: 561px">
                 <asp:TextBox ID="txtNombre" runat="server" Width="258px"></asp:TextBox>
             </td>
         </tr>
         <tr>
-            <td class="text-right" style="width: 114px; font-size: medium; color: #0066CC; font-family: Calibri;">&nbsp;</td>
+            <td class="text-right" style="width: 114px; font-size: large; color: #0066CC; font-family: Calibri;">&nbsp;</td>
             <td style="width: 33px">&nbsp;</td>
             <td style="width: 561px">
                 Ingrese nombre de docente</td>
         </tr>
         <tr>
-            <td class="text-right" style="width: 114px; font-size: medium; color: #0066CC; font-family: Calibri;"><em><strong>Apellido</strong></em></td>
+            <td class="text-right" style="width: 114px; font-size: large; color: #0066CC; font-family: Calibri;"><em><strong>Apellido</strong></em></td>
             <td style="width: 33px">&nbsp;</td>
             <td style="width: 561px">
                 <asp:TextBox ID="TxtApellido" runat="server" Width="258px"></asp:TextBox>
             </td>
         </tr>
         <tr>
-            <td class="text-right" style="width: 114px; font-size: medium; color: #0066CC; font-family: Calibri;">&nbsp;</td>
+            <td class="text-right" style="width: 114px; font-size: large; color: #0066CC; font-family: Calibri;">&nbsp;</td>
             <td style="width: 33px">&nbsp;</td>
             <td style="width: 561px">
                 Ingrese nombre de docente</td>
         </tr>
         <tr>
-            <td class="text-right" style="width: 114px; font-size: medium; color: #0066CC; font-family: Calibri;"><em><strong>Correo</strong></em></td>
+            <td class="text-right" style="width: 114px; font-size: large; color: #0066CC; font-family: Calibri;"><em><strong>Correo</strong></em></td>
             <td style="width: 33px">&nbsp;</td>
             <td style="width: 561px">
                 <asp:TextBox ID="TxtCorreo" runat="server" Width="258px"></asp:TextBox>
             </td>
         </tr>
         <tr>
-            <td class="text-right" style="width: 114px; font-size: medium; color: #0066CC; font-family: Calibri;">&nbsp;</td>
+            <td class="text-right" style="width: 114px; font-size: large; color: #0066CC; font-family: Calibri;">&nbsp;</td>
             <td style="width: 33px">&nbsp;</td>
             <td style="width: 561px">
                 Ingrese nombre de docente</td>
         </tr>
         <tr>
-            <td class="text-right" style="width: 114px; font-size: medium; color: #0066CC; font-family: Calibri;"><em><strong>Teléfono</strong></em></td>
+            <td class="text-right" style="width: 114px; font-size: large; color: #0066CC; font-family: Calibri;"><em><strong>Teléfono</strong></em></td>
             <td style="width: 33px">&nbsp;</td>
             <td style="width: 561px">
                 <asp:TextBox ID="TxtTelefono" runat="server" Width="258px"></asp:TextBox>
             </td>
         </tr>
         <tr>
-            <td class="text-right" style="width: 114px; font-size: medium; color: #0066CC; font-family: Calibri;">&nbsp;</td>
+            <td class="text-right" style="width: 114px; font-size: large; color: #0066CC; font-family: Calibri;">&nbsp;</td>
             <td style="width: 33px">&nbsp;</td>
             <td style="width: 561px">
                 Ingrese telefono de docente</td>
         </tr>
         <tr>
-            <td class="text-right" style="width: 114px; font-size: medium; color: #0066CC; font-family: Calibri;"><em><strong>Código</strong></em></td>
+            <td class="text-right" style="width: 114px; font-size: large; color: #0066CC; font-family: Calibri;"><em><strong>Código</strong></em></td>
             <td style="width: 33px">&nbsp;</td>
             <td style="width: 561px">
                 <asp:TextBox ID="TxtCodigo" runat="server" Width="122px" Enabled="False"></asp:TextBox>
@@ -82,7 +82,7 @@
             </td>
         </tr>
         <tr>
-            <td class="text-right" style="width: 114px; font-size: medium; color: #0066CC; font-family: Calibri;">&nbsp;</td>
+            <td class="text-right" style="width: 114px; font-size: large; color: #0066CC; font-family: Calibri;">&nbsp;</td>
             <td style="width: 33px">&nbsp;</td>
             <td style="width: 561px">&nbsp;</td>
         </tr>
